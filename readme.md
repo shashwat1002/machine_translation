@@ -1,28 +1,3 @@
-# The Language Model
-
-flags: 
-
-`-train` followed by two subarguments:
-    - root directory
-    - corpus file name
-
-Used to train model 
-
-`-vocab`
-To load or save vocabulary
-subargument: vocabulary file
-
-`-model`
-To load or save model 
-subarg: model file path 
-
-`-test`
-to tell it to test
-subarg: 
-    - toor directory
-    - corpus name
-
-
 # The Machine translation
 
 flags:
